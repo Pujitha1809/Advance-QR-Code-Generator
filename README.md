@@ -20,6 +20,7 @@ Pillow (Image Processing)
 OS Module (File Handling)
 
 📦 Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/pujithamamidishetty/advanced-qr-code-generator.git
 cd advanced-qr-code-generator
