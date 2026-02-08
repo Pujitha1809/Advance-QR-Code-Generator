@@ -62,8 +62,11 @@ Mobile-friendly version
 Pujitha Mamidishetty
 BTech Data Science Student | Software Engineering Intern | Web Developer
 📍 Mumbai, India
+
 🔗 GitHub: https://github.com/pujithamamidishetty
+
 🔗 Portfolio: https://pujitha1809.github.io/Portfolio/
+
 🔗 LinkedIn: https://www.linkedin.com/in/pujitha-mamidishetty/
 
 ⭐ Support
